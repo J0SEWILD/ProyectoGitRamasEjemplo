@@ -7,7 +7,7 @@ public class EjerciciosGit_Github : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("Hello");
+        Debug.Log("Wola");
     }
 
     // Update is called once per frame
